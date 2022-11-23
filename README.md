@@ -113,6 +113,6 @@ print(prediction)
 
 ### Output Screenshots:-
 
-<p><img src="https://lh5.googleusercontent.com/vFT5L5xZ5optACNBVtpRdGEGMGU6_6dfWY1vila7XLVyJHYjLFg5zRfEZlBbubNyO2s=w1200-h630-p" height=" 100%"></p>
+<p><img src="https://lh5.googleusercontent.com/vFT5L5xZ5optACNBVtpRdGEGMGU6_6dfWY1vila7XLVyJHYjLFg5zRfEZlBbubNyO2s=w1200" height=" 100%"></p>
 <p><img src="https://lh5.googleusercontent.com/fSdMVQty7zqz7J6b8-Q3AvgRx04D9LBrm1zeuAdGrcdtU--CWmBgSPhlOFTm-3YUKZU=w2400" height=" 100%"></p>
 <p><img src="https://lh4.googleusercontent.com/b3Esj8EJbX0dTDm9WPKFLnccnec2PB19tIXXPxSvzOrr1ethhgaYmRZOF9GmgmbxfIw=w2400" height=" 100%"></p>
